@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  AVLAgaci.cpp
+  AVLNode.cpp
+  Ders.cpp
+  Fonksiyonlar.cpp
+C:\Users\cmd\Desktop\My Projects\VeriYapılarıProje-v2\VeriYapılarıProje-v2\VeriYapılarıProje-v2\Ders.cpp(75,27): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\cmd\Desktop\My Projects\VeriYapılarıProje-v2\VeriYapılarıProje-v2\VeriYapılarıProje-v2\Fonksiyonlar.cpp(214,40): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  Liste.cpp
+  Menu.cpp
+  Node.cpp
+  Ogrenci.cpp
+  VeriYapılarıProje-v2.cpp
+  Kod Üretiliyor...
+C:\Users\cmd\Desktop\My Projects\VeriYapılarıProje-v2\VeriYapılarıProje-v2\VeriYapılarıProje-v2\Fonksiyonlar.cpp(377,11): warning C4129: '-': tanınmayan karakter kaçış sırası
+  VeriYapılarıProje-v2.vcxproj -> C:\Users\cmd\Desktop\My Projects\VeriYapılarıProje-v2\VeriYapılarıProje-v2\x64\Debug\VeriYapılarıProje-v2.exe
